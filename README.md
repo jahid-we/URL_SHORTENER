@@ -137,3 +137,9 @@ Open `http://127.0.0.1:8000/abc123` in browser to test redirection.
 
 **Made by**: Jahid Hasan  
 **Stack**: Laravel 12, Blade, Bootstrap 5, JavaScript
+
+## License
+
+This project is open-sourced under the [MIT license](LICENSE).
+
+© 2025 Jahid Hasan. All rights reserved.

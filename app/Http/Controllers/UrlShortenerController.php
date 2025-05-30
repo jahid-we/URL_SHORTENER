@@ -11,6 +11,13 @@ use Illuminate\View\View;
 
 class UrlShortenerController extends Controller
 {
+    /**
+     * URL Shortener Project
+     *
+     * @copyright 2025 Jahid Hasan
+     * @license   MIT License
+     */
+
     // Home Page Functionality Start ****************************
     public function home(Request $request): view
     {

@@ -7,6 +7,12 @@ use Illuminate\Support\Facades\Schema;
 return new class extends Migration
 {
     /**
+     * URL Shortener Project
+     *
+     * @copyright 2025 Jahid Hasan
+     * @license   MIT License
+     */
+    /**
      * Run the migrations.
      */
     public function up(): void
